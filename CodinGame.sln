@@ -5,7 +5,11 @@ VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "THE DESCENT", "THE DESCENT", "{32D6EA43-462D-4693-884C-AAD72A3C26D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "THE DESCENT", "THE DESCENT\THE DESCENT.csproj", "{9D4BA68F-4125-4FCE-8CF1-7C664882755F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "THE DESCENT", "THE DESCENT\THE DESCENT.csproj", "{9D4BA68F-4125-4FCE-8CF1-7C664882755F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Video comments", "Video comments", "{31A72E8F-565D-4B31-AAF4-ACF16D192CBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Video comments", "Video comments\Video comments.csproj", "{8A05563C-71A6-4B8C-A873-9D22D000C5E8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +21,17 @@ Global
 		{9D4BA68F-4125-4FCE-8CF1-7C664882755F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D4BA68F-4125-4FCE-8CF1-7C664882755F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D4BA68F-4125-4FCE-8CF1-7C664882755F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A05563C-71A6-4B8C-A873-9D22D000C5E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A05563C-71A6-4B8C-A873-9D22D000C5E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A05563C-71A6-4B8C-A873-9D22D000C5E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A05563C-71A6-4B8C-A873-9D22D000C5E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{9D4BA68F-4125-4FCE-8CF1-7C664882755F} = {32D6EA43-462D-4693-884C-AAD72A3C26D2}
+		{8A05563C-71A6-4B8C-A873-9D22D000C5E8} = {31A72E8F-565D-4B31-AAF4-ACF16D192CBB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3AF17E68-8E7E-42F8-8DB6-5C520A3A994A}
